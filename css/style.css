@@ -1,0 +1,24 @@
+/* section1 */
+html, body{
+    width: 100%;
+    height: 100%;
+}
+.header{
+    width: 1920px;
+    justify-content: space-between;
+    display: flex
+}
+.navigation{
+    display: inline-block;
+}
+.ul-items{
+    width: 581px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 67px;
+    padding-right: 80px;
+}
+.logo{
+    padding-left: 132px;
+    padding-top: 67px;
+}
