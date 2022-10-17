@@ -8,6 +8,9 @@ html, body{
     justify-content: space-between;
     display: flex
 }
+.section{
+    display: flex;
+}
 .navigation{
     display: inline-block;
 }
@@ -21,4 +24,56 @@ html, body{
 .logo{
     padding-left: 132px;
     padding-top: 67px;
+    font-size: 32px;
+    color: #4B647E;
+}
+.header-span{
+    color: #3D37F1;
+}
+/* left block */
+.left-block{
+    width: 600px;
+    padding-left: 132px ;
+    margin-right: 307px;
+    padding-bottom: 287px;
+
+}
+.left-block-h{
+    width: 600px;
+    font-size: 78px;
+    color: #534D4D;
+    margin-top: 285px;
+    margin-bottom: 42px;
+}
+.wave-me{
+    width: 263.67px;
+    height: 76.77px;
+    background-color: #3D37F1;
+    border-radius: 38px;
+    margin-top: 83px;;
+    display: flex;
+}
+.div-img{
+    color: #FFFFFF;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    margin-right: 25px;
+}
+.div-p{
+    font-size: 23px;
+    color: #FFFFFF;
+    padding-right: 60px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+/* right block */
+.right-block{
+    background-image: url(../images/undraw_pair_programming_njlp.png);
+    width: 801px;
+    height: 526px;
+    background-size: cover;
+    margin-top: 262px;
+    padding-right: 80px;
+    padding-bottom: 287px;
 }
