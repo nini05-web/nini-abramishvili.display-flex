@@ -155,10 +155,16 @@ html, body{
 .icon-div{
     margin: 0 auto;
     padding-bottom: 48px;
-    background-color: #FFFFFF;
     width: 131px;
     height: 45px;
+    border: 2px solid white;
     border-radius: 23px;
+}
+.icon-div:nth-child(1){
+    background-color: #FFFFFF;
+}
+.box{
+    background-color: #FFFFFF;
 }
 .icon-div-p{
     text-align: center;
