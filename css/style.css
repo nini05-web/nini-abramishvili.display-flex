@@ -115,6 +115,24 @@ html, body{
     background-color: #4B647E;
     margin-bottom: 60px;
 }
+.child:nth-child(1){
+    background-color: #FBBA77;
+}
+.child:nth-child(2){
+    background-color: #41EAE3;
+}
+.child:nth-child(3){
+    background-color: #69529F;
+}
+.child:nth-child(4){
+    background-color: #4386D2;
+}
+.child:nth-child(5){
+    background-color: #A5A2F6;
+}
+.child:nth-child(6){
+    background-color: #FF8088;
+}
 .icon-img{
     margin: 0 auto;
     padding-top: 90px;
@@ -138,7 +156,6 @@ html, body{
     margin: 0 auto;
     padding-bottom: 48px;
     background-color: #FFFFFF;
-    color: #4B647E;
     width: 131px;
     height: 45px;
     border-radius: 23px;
